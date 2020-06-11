@@ -1,3 +1,3 @@
-# Fetch Install apps
+# Device_App
 
 A new Flutter project.
